@@ -2,12 +2,12 @@
 Purpose:
 This Java project is designed to manage student information for a specific batch. It allows users to add, view, update, and remove students dynamically via console interaction.
 
-Core Packages and Classes:
-1. Entity Classes
-Student.java
+##Core Packages and Classes:
+#1. Entity Classes
+##Student.java
 Represents an individual student.
 
-Attributes:
+#Attributes:
 
 id: Integer representing the unique student ID.
 
@@ -15,9 +15,9 @@ name: Student's name.
 
 gen: Student's gender ('m' or 'f').
 
-Methods: Standard getters and setters.
+#Methods: Standard getters and setters.
 
-Batch.java
+##Batch.java
 Represents a class batch.
 
 Attributes:
