@@ -6,7 +6,7 @@ This Java project is designed to manage student information for a specific batch
 
 **1. Entity Classes**
 
-**Student.java**
+**i.Student.java**
 Represents an individual student.
 
 **Attributes:**
@@ -19,7 +19,7 @@ gen: Student's gender ('m' or 'f').
 
 Methods: Standard getters and setters.
 
-**Batch.java**
+**ii.Batch.java**
 Represents a class batch.
 
 **Attributes:**
@@ -35,6 +35,7 @@ students: A list of Student objects.
 Methods: Getters and setters for all attributes.
 
 **2. Controller Class**
+
 **Controller.java**
 Handles business logic and operations like:
 
@@ -47,6 +48,7 @@ Removing or updating a student.
 Verifying student existence by ID.
 
 **3. View Class**
+
 **Driver.java**
 Acts as the user interface (console-based).
 
