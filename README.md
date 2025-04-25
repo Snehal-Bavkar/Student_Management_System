@@ -52,9 +52,13 @@ Acts as the user interface (console-based).
 Prompts the user to input batch details.
 
 Displays menu options for managing students:
+
 View students
+
 Add one/multiple students
+
 Remove or update student info
+
 Ensures validation for inputs like gender and update options.
 
 
